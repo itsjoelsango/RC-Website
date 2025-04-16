@@ -24,11 +24,11 @@ At RC, we value your privacy. We want to assure you that we do not collect any p
 
 ### Privacy Policy
 
-For more details, please refer to our [Privacy Policy](https://itsjoelsango.github.io/rc-privacy-policy/2025/04/16/privacy-policy.html).
+For more details, please refer to our [Privacy Policy](https://github.com/itsjoelsango/RC-Website/blob/main/_posts/2025-04-16-privacy-policy.md).
 
 ## Contact Us
 
-If you have any questions or feedback, feel free to reach out to us at [appdevwithme@gmail.com]
+If you have any questions or feedback, feel free to reach out to us at [Email](appdevwithme@gmail.com)
 
 ---
 
