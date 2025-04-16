@@ -39,5 +39,5 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 
 ## 7. Contact Us
 
-If you have any questions about this Privacy Policy, please contact us at:
-[appdevwithme@gmail.com] 
+If you have any questions about this Privacy Policy, please contact us at: 
+[Contact](appdevwithme@gmail.com) 
