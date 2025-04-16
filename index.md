@@ -28,7 +28,7 @@ For more details, please refer to our [Privacy Policy](https://itsjoelsango.gith
 
 ## Contact Us
 
-If you have any questions or feedback, feel free to reach out to us!
+If you have any questions or feedback, feel free to reach out to us at [appdevwithme@gmail.com]
 
 ---
 
