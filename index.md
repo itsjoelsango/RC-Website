@@ -3,9 +3,7 @@ title: Recueil de Chants (RC) - Your Ultimate Digital Christian Songbook
 description: Discover RC, the revolutionary app that brings your favorite worship songs and hymns to your fingertips
 ---
 
-# Welcome to RC: Your Ultimate Digital Christian Songbook
-
-## About RC
+## About Recueil de Chants
 
 As a devoted Christian, having all your favorite worship songs and hymns in one accessible app is a true blessing. Meet **RC**, the revolutionary digital songbook app designed to transform how you access and enjoy your cherished spiritual music.
 
@@ -26,17 +24,11 @@ At RC, we value your privacy. We want to assure you that we do not collect any p
 
 ### Privacy Policy
 
-For more details, please refer to our [Privacy Policy](URL_TO_YOUR_PRIVACY_POLICY).
-
-## Download RC Today!
-
-Elevate your worship journey and keep your favorite songs close at hand with this innovative and user-friendly app. Download RC today and experience the convenience of having your entire spiritual music collection in the palm of your hand!
-
-[Download on the App Store](LINK_TO_APP_STORE)
+For more details, please refer to our [Privacy Policy](https://itsjoelsango.github.io/rc-privacy-policy/2025/04/16/privacy-policy.html).
 
 ## Contact Us
 
-If you have any questions or feedback, feel free to reach out to us at [your email address].
+If you have any questions or feedback, feel free to reach out to us!
 
 ---
 
